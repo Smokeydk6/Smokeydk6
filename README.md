@@ -40,37 +40,25 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-| Project | What it is | Stack |
-|---|---|---|
-| [forge-bot](https://github.com/Smokeydk6/forge-bot) | 🤖 Forge — Discord bot for The AI Workshop: verify gate, XP & levels, AI news, tickets, challenges, automod | Python, discord.py |
-| [boligappen](https://github.com/Smokeydk6/boligappen) | 🏠 Housing app | JavaScript |
-| [boligportalen](https://github.com/Smokeydk6/boligportalen) | 🏠 Housing portal | — |
-| [hjemmeside](https://github.com/Smokeydk6/hjemmeside) | 🌐 Website | HTML |
-| [wispbyte-bun-chat](https://github.com/Smokeydk6/wispbyte-bun-chat) | 💬 Chat game | — |
-| [wild-jacks-online](https://github.com/Smokeydk6/wild-jacks-online) | 🃏 AI vs player card game using a minimax algorithm | Dart |
-| [smaa-bytjenester](https://github.com/Smokeydk6/smaa-bytjenester) | 🔧 Small city services | — |
+🤖 **[forge-bot](https://github.com/Smokeydk6/forge-bot)** — Forge, the Discord bot for The AI Workshop: verify gate, XP &amp; levels, AI news, tickets, weekly challenges, automod. Built with Python and discord.py.
 
 ## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smokeydk6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smokeydk6&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smokeydk6&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smokeydk6&theme=tokyo-night&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="forge-stats.svg" alt="Forge by the numbers" width="100%" />
 </p>
 
 ## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Smokeydk6/Smokeydk6/output/github-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Smokeydk6/Smokeydk6/output/ocean.gif" alt="Contribution snake" />
 </p>
 
 ---

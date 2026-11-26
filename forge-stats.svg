@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190" viewBox="0 0 640 190">
+  <style>
+    .title { font: 600 15px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+    .num { font: 700 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+    .label { font: 400 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="639" height="189" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="18" cy="24" r="4" fill="#8b5cf6">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="32" y="29" class="title">Forge · by the numbers</text>
+
+  <!-- 1771 lines of code -->
+  <g transform="translate(80,0)">
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#30363d" stroke-width="7"/>
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#8b5cf6" stroke-width="7" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 0 92)">
+      <animate attributeName="stroke-dashoffset" from="213.6" to="53.4" dur="1.4s" begin="0s" fill="freeze"/>
+    </circle>
+    <text x="0" y="100" text-anchor="middle" class="num">1771<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze"/></text>
+    <text x="0" y="152" text-anchor="middle" class="label">lines of code</text>
+  </g>
+
+  <!-- 16 slash commands -->
+  <g transform="translate(240,0)">
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#30363d" stroke-width="7"/>
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#22d3ee" stroke-width="7" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 0 92)">
+      <animate attributeName="stroke-dashoffset" from="213.6" to="53.4" dur="1.4s" begin="0.15s" fill="freeze"/>
+    </circle>
+    <text x="0" y="100" text-anchor="middle" class="num">16<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.45s" fill="freeze"/></text>
+    <text x="0" y="152" text-anchor="middle" class="label">slash commands</text>
+  </g>
+
+  <!-- 14 roles -->
+  <g transform="translate(400,0)">
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#30363d" stroke-width="7"/>
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#f472b6" stroke-width="7" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 0 92)">
+      <animate attributeName="stroke-dashoffset" from="213.6" to="53.4" dur="1.4s" begin="0.3s" fill="freeze"/>
+    </circle>
+    <text x="0" y="100" text-anchor="middle" class="num">14<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.6s" fill="freeze"/></text>
+    <text x="0" y="152" text-anchor="middle" class="label">roles</text>
+  </g>
+
+  <!-- 23 gated channels -->
+  <g transform="translate(560,0)">
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#30363d" stroke-width="7"/>
+    <circle cx="0" cy="92" r="34" fill="none" stroke="#fbbf24" stroke-width="7" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 0 92)">
+      <animate attributeName="stroke-dashoffset" from="213.6" to="53.4" dur="1.4s" begin="0.45s" fill="freeze"/>
+    </circle>
+    <text x="0" y="100" text-anchor="middle" class="num">23<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.75s" fill="freeze"/></text>
+    <text x="0" y="152" text-anchor="middle" class="label">gated channels</text>
+  </g>
+</svg>
