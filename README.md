@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dash-bear.gif" alt="Dash the bear waving hello" width="180" />
+</p>
+
 <div align="center">
   <img src="banner.png" alt="Smokeydk6 banner" width="100%" />
 </div>
